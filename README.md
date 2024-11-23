@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering 
 - **Tools Used:** MS SQL, Power BI  
 - **Highlights:** Extracted insights on loan approvals, defaults, and trends using advanced SQL queries and dashboards.  
 
-### 3️⃣ [E-Commerce Customer Churn Prediction](https://github.com/your-repo-link)  
+### 3️⃣ [E-Commerce Customer Churn Prediction](https://tinyurl.com/ydzpxvpe)
 - **Tools Used:** Python, Machine Learning  
 - **Highlights:** Developed a churn prediction model with actionable insights for customer retention strategies.  
 

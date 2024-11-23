@@ -40,17 +40,23 @@ Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering 
 
 
 ## 🛠 **Skills**  
+
+- **Data Collection & Cleaning**  
+Proficient in gathering, cleaning, and organizing data. Ensures high data quality and integrity for reliable analysis.  
+
+- **Data & Statistical Analysis**  
+Expert in applying statistical techniques and data mining to uncover trends, patterns, and actionable insights that drive business decisions.  
+
+- **Reporting & Visualization**  
+Adept at designing interactive dashboards, visually appealing reports, and clear visualizations using tools like Power BI, Tableau, and Excel to simplify complex data.  
+
+
+## 🛠 **Technical Tools**  
 - **Languages:** SQL, Python  
 - **Visualization Tools:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Database Management:** MySQL, PostgreSQL  
-- **Other Tools:** Excel, Google Sheets  
+- **Database Management:** MySQL, MS SQL
+- **Other Tools:** Excel
 - **Core Concepts:** Data Cleaning, Statistical Analysis, Hypothesis Testing, Predictive Modeling  
-
-
-## 📚 **Learning and Development**  
-- Currently diving deeper into **Machine Learning** and **Big Data Analytics**  
-- Exploring tools like **Apache Spark** and **AWS**  
-
 
 ## 📫 **Let’s Connect!**  
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)  

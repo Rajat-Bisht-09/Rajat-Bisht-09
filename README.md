@@ -63,9 +63,9 @@ Adept at designing interactive dashboards, visually appealing reports, and clear
 - **Core Concepts:** Data Cleaning, Statistical Analysis, Hypothesis Testing, Predictive Modeling  
 
 ## 📫 **Let’s Connect!**  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/rajat-bisht](https://linkedin.com/in/rajat-bisht)  
-- 🐦 Twitter: [twitter.com/your-handle](https://twitter.com/your-handle)  
+- 📧 [Email](mailto:rbisht2909@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/irajatbisht/)
+- 📊 [Tableau](https://tinyurl.com/6bcup3u9)
 
 
 ### 🌟 Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration or discussions. Let's turn data into actionable insights! 🚀  

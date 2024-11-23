@@ -4,19 +4,21 @@
 
 Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering insights, visualizing data, and solving complex problems. This is where I showcase my projects, skills, and learning journey in data analysis and beyond.  
 
----
 
 ## 🌟 **About Me**  
-- 📍 Based in India  
-- 🎓 Strong foundation in **SQL**, **Python**, and **Power BI**  
-- 📈 Experienced in analyzing and visualizing datasets from various domains  
-- 💡 Always curious about exploring new tools and techniques to turn data into impactful stories  
 
----
+- Hey there! your friendly neighborhood data geek who believes that every dataset has a story waiting to be uncovered. 📖✨  
+- While others binge-watch Netflix, I binge-analyze Netflix data. (Yes, I know how many horror movies were added last year. 🧟)  
+- I’ve got a love-hate relationship with Python—loved it when it worked, hated it when it didn’t. 🐍💻  
+- If data were a pizza, I’d slice it, dice it, and deliver insights faster than your local pizzeria. 🍕📊  
+- My dream? To one day make my Tableau dashboards so good that they’re framed in the Louvre. 🎨📈
+- Life motto: If life gives you lemons, turn them into pie charts. 🍋➡️📊
+
+`Friendly Reminder` : **Crafted by me, polished by ChatGPT—because teamwork makes the dream work!**
 
 ## 💼 **Portfolio Highlights**  
 
-### 1️⃣ [PM10 Air Quality Estimation](https://github.com/your-repo-link)  
+### 1️⃣ [PM10 Air Quality Estimation]([https://github.com/your-repo-link](https://tinyurl.com/34pytb3a))  
 - **Tools Used:** Python, Machine Learning  
 - **Highlights:** Built a predictive model to estimate PM10 levels, leveraging visualization and feature engineering techniques.  
 

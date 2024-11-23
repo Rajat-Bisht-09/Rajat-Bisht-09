@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering 
 - **Tools Used:** Python, Machine Learning  
 - **Highlights:** Built a predictive model to estimate PM10 levels, leveraging visualization and feature engineering techniques.  
 
-### 2️⃣ [Bank Loan Analysis](https://github.com/your-repo-link)  
+### 2️⃣ [Bank Loan Analysis](https://tinyurl.com/34twydhd) 
 - **Tools Used:** MS SQL, Power BI  
 - **Highlights:** Extracted insights on loan approvals, defaults, and trends using advanced SQL queries and dashboards.  
 

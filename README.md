@@ -36,7 +36,11 @@ Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering 
 
 ### 5️⃣ [YULU Hypothesis Testing](https://tinyurl.com/mvefu92h)
 - **Tools Used:** Python (Scipy, Statsmodels), Data Visualization  
-- **Highlights:** Conducted univariate and bivariate analysis, testing hypotheses using statistical methods like ANOVA and Chi-Square.  
+- **Highlights:** Conducted univariate and bivariate analysis, testing hypotheses using statistical methods like ANOVA and Chi-Square.
+
+### 6️⃣ [EV Sales Analysis](https://tinyurl.com/2s3p9drb)
+- **Tools Used:** Tableau 
+- **Highlights:** Analyzed trends in electric vehicle (EV) sales, exploring factors like market growth, regional performance, and customer preferences. Created interactive dashboards and visualizations to highlight key insights.  
 
 
 ## 🛠 **Skills**  

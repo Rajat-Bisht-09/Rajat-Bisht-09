@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering 
 
 ## 💼 **Portfolio Highlights**  
 
-### 1️⃣ [PM10 Air Quality Estimation]([https://github.com/your-repo-link](https://tinyurl.com/34pytb3a))  
+### 1️⃣ [PM10 Air Quality Estimation](https://tinyurl.com/34pytb3a)
 - **Tools Used:** Python, Machine Learning  
 - **Highlights:** Built a predictive model to estimate PM10 levels, leveraging visualization and feature engineering techniques.  
 

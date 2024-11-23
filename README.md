@@ -30,11 +30,11 @@ Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering 
 - **Tools Used:** Python, Machine Learning  
 - **Highlights:** Developed a churn prediction model with actionable insights for customer retention strategies.  
 
-### 4️⃣ [Netflix Data Exploration](https://github.com/your-repo-link)  
+### 4️⃣ [Netflix Data Exploration](https://tinyurl.com/4y5ayucy)
 - **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
 - **Highlights:** Analyzed content trends across countries, genres, and years to draw insightful patterns.  
 
-### 5️⃣ [YULU Hypothesis Testing](https://github.com/your-repo-link)  
+### 5️⃣ [YULU Hypothesis Testing](https://tinyurl.com/mvefu92h)
 - **Tools Used:** Python (Scipy, Statsmodels), Data Visualization  
 - **Highlights:** Conducted univariate and bivariate analysis, testing hypotheses using statistical methods like ANOVA and Chi-Square.  
 

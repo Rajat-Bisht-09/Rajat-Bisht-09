@@ -38,7 +38,6 @@ Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering 
 - **Tools Used:** Python (Scipy, Statsmodels), Data Visualization  
 - **Highlights:** Conducted univariate and bivariate analysis, testing hypotheses using statistical methods like ANOVA and Chi-Square.  
 
----
 
 ## 🛠 **Skills**  
 - **Languages:** SQL, Python  
@@ -47,20 +46,17 @@ Welcome to my GitHub profile! I'm a data enthusiast passionate about uncovering 
 - **Other Tools:** Excel, Google Sheets  
 - **Core Concepts:** Data Cleaning, Statistical Analysis, Hypothesis Testing, Predictive Modeling  
 
----
 
 ## 📚 **Learning and Development**  
 - Currently diving deeper into **Machine Learning** and **Big Data Analytics**  
 - Exploring tools like **Apache Spark** and **AWS**  
 
----
 
 ## 📫 **Let’s Connect!**  
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
 - 💼 LinkedIn: [linkedin.com/in/rajat-bisht](https://linkedin.com/in/rajat-bisht)  
 - 🐦 Twitter: [twitter.com/your-handle](https://twitter.com/your-handle)  
 
----
 
 ### 🌟 Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration or discussions. Let's turn data into actionable insights! 🚀  
 

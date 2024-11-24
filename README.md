@@ -1,3 +1,9 @@
+![Data Analyst](https://github.com/user-attachments/assets/b6dcdad8-5c61-4759-960e-6c62a75f3ded)
+
+
+
+
+
 # 👋 Hi, I'm Rajat Bisht  
 
 ### 📊 **Aspiring Data Analyst | Insight Seeker | Problem Solver**  
